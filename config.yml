@@ -183,10 +183,10 @@ messages:
   #   {cpu} to insert CPU information
   #   {ram} to insert RAM size
   # Any other words in curly braces will be removed.
-  greeting: "Ку бест! Меня создал @ChessClassic_555 ) Введи !help для получения списка команд. Приятной игры)" # Message sent to the opponent at the beginning of a game.
-  goodbye: "Гг Бест!"                                             # Message sent to the opponent after the end of a game.
-  greeting_spectators: "Ку бест! Меня создал @ChessClassic_555 ) Введи !help для получения списка команд. Приятного просмотра)" # Message sent to the spectators at the beginning of a game.
-  goodbye_spectators: "Спс за просмотр!)"                                           # Message sent to the spectators after the end of a game.
+  greeting: "Привет! Мой создатель — @GOrInkO, а запускает меня @ChessClassic_555. Напиши !help, и я покажу, на что способен!" # Message sent to the opponent at the beginning of a game.
+  goodbye: "Партия завершена. Мозги расплавлены. Спасибо за игру!"                                             # Message sent to the opponent after the end of a game.
+  greeting_spectators: "Привет! Мой создатель — @GOrInkO, а запускает меня @ChessClassic_555. Напиши !help, и я покажу, на что способен!" # Message sent to the spectators at the beginning of a game.
+  goodbye_spectators: "Партия завершена. Мозги расплавлены. Спасибо за игру!"                                           # Message sent to the spectators after the end of a game.
 
 # whitelist:                              # List of users whose challenges are always accepted.
 #   - Username1
